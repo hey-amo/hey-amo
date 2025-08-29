@@ -1,33 +1,27 @@
-# Hi there, I'm Amo.
+## Hi there, I'm Amo.
 
-I dabble with Swift, SwiftUI.
+> **I'm currently looking for work as a junior swift developer**
 
-I like games, and some of my examples are lightweight game implementations.
-
-I'm currently looking for work as a junior swift developer.
+I currently relearning Swift, SwiftUI.
 
 ### Currently working on
 
 - Swift.cv - A collection of standalone Swift demo projects for recruiters, employers, startups
-- SkillsBootcamp-GC - A repo collecting work undertaken on the `Full Stack development` skills bootcamp 
+- Merchants (Swift) - A simple swift implementation of a Reiner Knizia in Swift
+- Merchants (JS) - A simple swift implementation of a Reiner Knizia in Javascript
 
 ### Completed
 
 - PHPSamples - A collection of PHP demos undertaken on a 2025 `PHP Foundations` skills bootcamp
+- SkillsBootcamp-GC - A repo collecting work undertaken on the `Full Stack development` skills bootcamp 
 
-### Backlog
-
-- TikTakToe - A simple demo of TikTakToe using SwiftUI
-- PokerDice - A lightweight implementation game of Poker dice using SwiftUI
-- Engineyard - An implementation of a popular board game (TBC)
-- ExecutiveDecision - An implementation of a popular board game (TBC)
-
-### Languages
+### Languages 
 
 - Swift 5.x, SwiftUI
-- PHP 5-7+
+- PHP 5-7+, MySQL, SQL
 - HTML5, CSS3
+- Vanilla JS
 
 # Connect
 
-TBC
+Hiring?  Drop me a message
