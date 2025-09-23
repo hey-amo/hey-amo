@@ -29,4 +29,4 @@ I work on projects in Swift and SwiftUI.
 
 # Connect
 
-Hiring for a start-up?  Drop me a message.
+Hiring?  Drop me a message at: [LinkedIn](https://linkedin.com/in/hey-amo/)
