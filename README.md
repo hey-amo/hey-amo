@@ -7,8 +7,7 @@ I currently relearning Swift, SwiftUI.
 ### Currently working on
 
 - Swift.cv - A collection of standalone Swift demo projects for recruiters, employers, startups
-- Merchants (Swift) - A simple swift implementation of a Reiner Knizia in Swift
-- Merchants (JS) - A simple swift implementation of a Reiner Knizia in Javascript
+- Merchants (Swift and JavaScript) - An implementation of a Reiner Knizia's game "Merchants" both in Swift and Javascript
 
 ### Completed
 
@@ -22,6 +21,12 @@ I currently relearning Swift, SwiftUI.
 - HTML5, CSS3
 - Vanilla JS
 
+### Skills
+
+- Consulting: Design thinking, innovation, design sprints, business consultancy, strategy development.
+- Technical: Front-end web and iOS development, Agile development
+- Writing: Report writing
+
 # Connect
 
-Hiring?  Drop me a message
+Hiring for a start-up?  Drop me a message.
