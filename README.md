@@ -1,8 +1,8 @@
 ## Hi there, I'm Amo.
 
-> **I'm currently looking for work as a junior swift developer**
+> **I'm currently looking for work as a junior swift developer (Career returner)**
 
-I currently relearning Swift, SwiftUI.
+I work on projects in Swift and SwiftUI.
 
 ### Currently working on
 
