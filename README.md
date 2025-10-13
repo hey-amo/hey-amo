@@ -8,7 +8,7 @@ I work on projects in Swift and SwiftUI.
 
 ### Currently working on
 
-- Shipping Merchants (Swift) - 
+- Shipping Merchants (Swift) - A card game where you load cargo on ships
 - Merchants (Swift) - An implementation of a Reiner Knizia's game "Merchants" both in Swift and Javascript
 
 ### Completed
