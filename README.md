@@ -1,16 +1,19 @@
 ## Hi there, I'm Amo.
 
-> **I'm currently looking for work as a junior swift developer (Career returner)**
+> **I'm currently looking for work as a junior swift developer (Career returner)** <
+>
+> I'm interested in junior iOS swift developer roles at agencies, or startups.
 
 I work on projects in Swift and SwiftUI.
 
 ### Currently working on
 
-- Swift.cv - A collection of standalone Swift demo projects for recruiters, employers, startups
-- Merchants (Swift and JavaScript) - An implementation of a Reiner Knizia's game "Merchants" both in Swift and Javascript
+- Shipping Merchants (Swift) - 
+- Merchants (Swift) - An implementation of a Reiner Knizia's game "Merchants" both in Swift and Javascript
 
 ### Completed
 
+- Swift.cv - A collection of standalone Swift demo projects for recruiters, employers, startups
 - PHPSamples - A collection of PHP demos undertaken on a 2025 `PHP Foundations` skills bootcamp
 - SkillsBootcamp-GC - A repo collecting work undertaken on the `Full Stack development` skills bootcamp 
 
@@ -29,4 +32,4 @@ I work on projects in Swift and SwiftUI.
 
 # Connect
 
-Hiring?  Drop me a message at: [LinkedIn](https://linkedin.com/in/hey-amo/)
+Hiring?  Drop me a message via: [LinkedIn](https://linkedin.com/in/hey-amo/)
