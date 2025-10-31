@@ -1,6 +1,6 @@
 ## Hi there, I'm Amo.
 
-> **I'm currently looking for work as a junior swift developer (Career returner)** <
+> **I'm currently looking for work as a junior swift developer (Career returner)**
 >
 > I'm interested in junior iOS swift developer roles at agencies, or startups.
 
