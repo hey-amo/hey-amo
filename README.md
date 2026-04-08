@@ -1,13 +1,10 @@
 ---
 
-## Hi there, I'm Amo 👋
-
 📍 **UK** | 🤖 **Junior Swift developer** | 🚀 **Goal: Self-publish apps & find work**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
 [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
-
 
 > **I'm currently looking for work as a junior swift developer (Career returner)**
 >
