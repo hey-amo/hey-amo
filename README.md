@@ -1,6 +1,6 @@
 ---
 
-📍 **UK** | 🤖 **Junior Swift developer** | 🚀 **Goal: Self-publish apps & find work**
+📍 **UK** | 🤖 **Junior Swift developer** | 🚀 **Goal: To Self-publish apps & find full-time or part-time work**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
@@ -18,11 +18,10 @@
 ### Languages & Tools
 
 - Swift 5.x, SwiftUI, XCode, Visual Studio
-- PHP 5-7+, MySQL, SQL
+- Legacy PHP 5-7+, MySQL, SQL
 - HTML5, CSS3
 - Vanilla JS
 - AI: Claude, Cursor, Github CoPilot
-
 
 # Connect
 
